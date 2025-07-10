@@ -1,6 +1,6 @@
 package Core;
 
-public class Consitional_Statements {
+public class Conditional_Statements {
 	/*
 	 	- Conditional statements in Java enable programs to make decisions and execute different blocks of code based 
 	 	  on whether specific conditions are met. These statements are fundamental for controlling the flow of 
