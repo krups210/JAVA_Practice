@@ -39,5 +39,20 @@ public class Operators {
 		System.out.println("B2 = " + (b2--));
 		System.out.println("B2 = " + (--b2));
 		
+		double base = 34.3;
+		double height = 12.3;
+		double AreaOfTriangle = (base * height) / 2;
+		System.out.println("AreaOfTriangle is " + AreaOfTriangle);
+		
+		double radius = 34.3;
+		double AreaOfCircle = Math.PI * radius * radius;
+		System.out.println("AreaOfCircle is " + AreaOfCircle);
+		
+		int i = 10;
+		int j = 3;
+		int k = i / j;
+		System.out.println("K is " + k) ;
+				
+				
 	}
 }
